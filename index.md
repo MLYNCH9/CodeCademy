@@ -26,7 +26,7 @@
 <img src="finnish.jpg">
 <h3>Clean Finnish Paint</h3>
 <br>
-<p>Imported paint from Finland. Over 256 colors available in-store, varying in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas, increasing the finish and longevity of any artwork. Starting at $5.00 / tube.</p>
+<p>Imported paint from Finland. Over 256 colors available in-store, varying in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas, increasing the finish and longevity of any artwork. <span style= color:blue>Starting at $5.00 / tube.</span></p>
 
 </body>
 </html>
