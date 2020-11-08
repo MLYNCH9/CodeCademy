@@ -15,18 +15,18 @@
 <h2>Frames</h2>
 <br>
 <img src="frames.jpg">
-<h3>Art Frames (assorted)</h3>
+<h3 class="frames" >Art Frames (assorted)</h3>
 <br>
 <p>Assorted frames made of different material, including MDF, birchwood, and PDE. Select frames can be sanded and painted according to your needs. Starting at $2.00 / frame.</p>
 </div>
 <div class="paints">
 <h2>Paints</h2>
+    </div>
 <br>
 <img src="finnish.jpg">
 <h3>Clean Finnish Paint</h3>
 <br>
 <p>Imported paint from Finland. Over 256 colors available in-store, varying in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas, increasing the finish and longevity of any artwork. Starting at $5.00 / tube.</p>
-</div>
 
 </body>
 </html>
