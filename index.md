@@ -4,7 +4,7 @@
 </head>
 <body>
 <div>
-  <h1>Damnoto's Arts & Crafts<h1>
+  <h1 id="header">Damnoto's Arts & Crafts<h1>
 <h2 class="brushes">Brushes</h2>
 <br>
 <img src="hacksaw.jpg">
@@ -12,15 +12,15 @@
 <br>
 <p>Made of the highest quality oak, Hacksaw brushes are known for their weight and ability to hold paint in large amounts. Available in different sizes. Starting at $3.00 / brush.</p>
 <div>
-<h2 class="frames">Frames</h2>
+<h2 id="frames">Frames</h2>
 <br>
 <img src="frames.jpg">
-<h3 class="frames" >Art Frames (assorted)</h3>
+<h3 id="frames" >Art Frames (assorted)</h3>
 <br>
 <p>Assorted frames made of different material, including MDF, birchwood, and PDE. Select frames can be sanded and painted according to your needs. Starting at $2.00 / frame.</p>
 </div>
 <div>
-<h2 class="paints">Paints</h2>
+<h2 id="paints">Paints</h2>
 
 <br>
 <img src="finnish.jpg">
