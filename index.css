@@ -24,12 +24,12 @@ h3 {
     font-family: Helvectica;
 }
 
-#frames {
+.frames {
     background-color: light coral;
 }
 
 
 
-#paints {
+.paints {
     background-color: skyblue;
 }
