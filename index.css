@@ -45,6 +45,6 @@ h3 {
     background-color: skyblue;
 }
 
-p {
+p, span {
     font-family: Helvetica;
 }
