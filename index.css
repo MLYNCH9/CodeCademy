@@ -32,6 +32,9 @@ h3 {
     background-color: lightcoral;
 }
 
+#header {
+    background-image: url("pattern.jpeg");
+}
 
 
 #paints {
