@@ -15,7 +15,7 @@
 <h2 id="frames">Frames</h2>
 <br>
 <img src="frames.jpg">
-<h3 id="frames" >Art Frames (assorted)</h3>
+<h3>Art Frames (assorted)</h3>
 <br>
 <p>Assorted frames made of different material, including MDF, birchwood, and PDE. Select frames can be sanded and painted according to your needs. <span style= "color: blue; font-weight: bold;">Starting at $2.00 / frame.</span></p>
 </div>
