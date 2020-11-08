@@ -5,7 +5,7 @@
 <body>
 <div>
   <h1>Damnoto's Arts & Crafts<h1>
-<h2>Brushes</h2>
+<h2 class="brushes">Brushes</h2>
 <br>
 <img src="hacksaw.jpg">
 <h3>Hacksaw Brushes</h3>
