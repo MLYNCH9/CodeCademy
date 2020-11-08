@@ -10,6 +10,7 @@ h1 {
 #brushes {
     font-family: Helvetica;
     font-size: 32px;
+    height: 34px;
     font-weight: bold;
     color: white;
     background-color: mediumspringgreen;
@@ -28,6 +29,7 @@ h3 {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
+    height: 34px;
     color: white;
     background-color: lightcoral;
 }
@@ -41,6 +43,7 @@ h3 {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
+    height: 34px;
     color: white;
     background-color: skyblue;
 }
