@@ -1,6 +1,6 @@
 <html>
 <title>Damoto's Arts & Crafts</title>
-<head><link< href="./index.css" type="text/css" rel="stylesheet"/>
+<head><link href="./index.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
 <div>
